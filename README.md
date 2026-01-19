@@ -1,12 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bmitlLjS)
-# ここにゲームのタイトルを記述する
+# Too Much Me
 
 ## ゲームの内容
-ここにゲームの内容説明を記述する
+僕がいっぱいいて、僕が迫ってくるのでそれをかわしながら、シャッターの奥の世界へ逃げよう
 
-![画面イメージ](docs/images/game_image01.png)
+![画面イメージ]
+<img width="992" height="362" alt="スクリーンショット 2026-01-19 140443" src="https://github.com/user-attachments/assets/7e9fbf00-9e9f-4a02-9825-e5aa91c6b67b" />
+
 
 ## 操作説明
-例
-- 矢印キー、若しくはAとDキーで左右に砲台を移動する
-- スペースキーを押すとビームを敵に向けて発射する
+WASDで上下左右に移動　SHIFTキーでダッシュ　右クリックでPunch
